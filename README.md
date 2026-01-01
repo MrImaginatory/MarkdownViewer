@@ -9,7 +9,6 @@ https://admirable-panda-5eb48e.netlify.app/
 ## 📸 Screenshot
 
 ![Application Screenshot](Ui/UiScreen.png)
-*(Place your `screenshot.png` in the root directory)*
 
 ## ✨ Features
 
